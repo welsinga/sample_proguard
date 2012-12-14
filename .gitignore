@@ -16,5 +16,11 @@ gen/
 local.properties
 
 # Eclipse project files
-.classpath
-.project
+#.classpath
+#.project
+
+# Finder files
+*.DS_Store
+
+# Maven files
+/target

@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Sample Proguard</string>
+    <string name="next_screen">Next screen</string>
+    <string name="page">Page %1$d</string>
+
+</resources>
